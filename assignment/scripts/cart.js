@@ -19,4 +19,4 @@ function empty(basket) {
   basket = [];
 
 }
-console.log(empty());
+console.log('This should show undefined' , empty());
